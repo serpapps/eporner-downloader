@@ -141,7 +141,8 @@ https://www.eporner.com/api/v2/video/search/?id=[video-id]&per_page=1&thumbsize=
         "240": "https://static.eporner.com/dwnld/AbCd1234/240p/AbCd1234_240p.mp4",
         "480": "https://static.eporner.com/dwnld/AbCd1234/480p/AbCd1234_480p.mp4",
         "720": "https://static.eporner.com/dwnld/AbCd1234/720p/AbCd1234_720p.mp4",
-        "1080": "https://static.eporner.com/dwnld/AbCd1234/1080p/AbCd1234_1080p.mp4"
+        "1080": "https://static.eporner.com/dwnld/AbCd1234/1080p/AbCd1234_1080p.mp4",
+        "2160": "https://static.eporner.com/dwnld/AbCd1234/2160p/AbCd1234_2160p.mp4"
       }
     }
   ]
@@ -407,8 +408,14 @@ pip install yt-dlp
 # Using brew (macOS)
 brew install yt-dlp
 
-# Direct download
+# Direct download (with verification)
 sudo wget https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -O /usr/local/bin/yt-dlp
+
+# Verify checksum (recommended for security)
+# wget https://github.com/yt-dlp/yt-dlp/releases/latest/download/SHA2-256SUMS
+# sha256sum -c SHA2-256SUMS 2>&1 | grep yt-dlp
+
+# Make executable
 sudo chmod a+rx /usr/local/bin/yt-dlp
 ```
 
@@ -1677,11 +1684,11 @@ This research document provides a comprehensive overview of downloading videos f
 
 ### API Documentation
 
-- **Eporner API:** https://www.eporner.com/api/ (if available)
+- **Eporner API:** https://www.eporner.com/api/v2/video/search/ (Public API for video search and metadata)
 
 ---
 
 *Document Version: 1.0*  
-*Last Updated: 2024*  
+*Last Updated: December 13, 2024*  
 *Author: Research Team*  
 *Status: Complete*
