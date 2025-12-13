@@ -1,18 +1,17 @@
 # Eporner Video Downloader App (Browser Extension for Chrome, Firefox, Edge, Brave, Arc, Safari)
 
+A browser extension that adds a download button to videos to easily download videos for convenient offline viewing.
 
-## 🔗 Links
-
-- 🎁 Get it [here](https://serp.ly/eporner-video-downloader)
-- ❓ Check FAQs [here](https://github.com/orgs/serpapps/discussions/categories/faq)
-- 🐛 Report bugs [here](https://github.com/serpapps/eporner-video-downloader/issues)
-- 🆕 Request features [here](https://github.com/serpapps/eporner-video-downloader/issues)
+- Download high-quality videos with one click
+- Save your favorite adult content for unlimited offline access anytime, anywhere
+- Create a personal library of adult entertainment that you own forever
+- Never lose access to premium content again - backup everything locally
 
 ## Resources
 
-- [Repository](https://github.com/serpapps/)
-- [Gist]()
-- [How to download pornhub videos]()
+- [Repository](https://github.com/serpapps/eporner-downloader)
+- [Gist](https://gist.github.com/devinschumacher/fba621463a1bd04d56629fc23843d80d)
+- [How to download eporner videos]()
 
 
 ---
