@@ -113,11 +113,13 @@ https://www.eporner.com/embed/AbCd1234
 
 #### Video Metadata API
 
-Eporner exposes video information through its API:
+Eporner exposes video information through its public API:
 
 ```
 https://www.eporner.com/api/v2/video/search/?id=[video-id]&per_page=1&thumbsize=big
 ```
+
+**API Availability Note:** This is a public API endpoint that does not require authentication. It's relatively stable and can be used for production applications. However, as with any third-party API, implement appropriate error handling and respect rate limits. The API returns JSON data including direct video URLs for all available quality levels.
 
 **Response Structure:**
 ```json
