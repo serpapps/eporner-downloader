@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-labelledby="title desc">
+  <title id="title">Eporner Downloader workflow preview</title>
+  <desc id="desc">Stylized preview card for the Eporner Downloader workflow.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#dc2626"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="720" fill="url(#bg)"/>
+  <rect x="72" y="72" width="1136" height="576" rx="28" fill="#180a0a" fill-opacity="0.9" stroke="#fca5a5" stroke-opacity="0.45"/>
+  <text x="110" y="170" fill="#fef2f2" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="700">Eporner Downloader</text>
+  <text x="110" y="222" fill="#fecaca" font-family="Segoe UI, Arial, sans-serif" font-size="28">Open the video, choose quality, save MP4.</text>
+  <rect x="110" y="286" width="310" height="228" rx="20" fill="#991b1b"/>
+  <rect x="452" y="286" width="310" height="228" rx="20" fill="#b91c1c"/>
+  <rect x="794" y="286" width="374" height="228" rx="20" fill="#dc2626"/>
+  <text x="140" y="350" fill="#fee2e2" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">1. Open the video page</text>
+  <text x="140" y="394" fill="#fef2f2" font-family="Segoe UI, Arial, sans-serif" font-size="22">Press play and let the extension</text>
+  <text x="140" y="426" fill="#fef2f2" font-family="Segoe UI, Arial, sans-serif" font-size="22">detect the active media.</text>
+  <text x="482" y="350" fill="#fee2e2" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">2. Pick a quality</text>
+  <text x="482" y="394" fill="#fef2f2" font-family="Segoe UI, Arial, sans-serif" font-size="22">Choose the source variant exposed</text>
+  <text x="482" y="426" fill="#fef2f2" font-family="Segoe UI, Arial, sans-serif" font-size="22">by the page or popup.</text>
+  <text x="824" y="350" fill="#fef2f2" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">3. Save the MP4</text>
+  <text x="824" y="394" fill="#fef2f2" font-family="Segoe UI, Arial, sans-serif" font-size="22">Download the file for cleaner</text>
+  <text x="824" y="426" fill="#fef2f2" font-family="Segoe UI, Arial, sans-serif" font-size="22">offline playback later.</text>
+</svg>
