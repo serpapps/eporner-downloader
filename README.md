@@ -12,7 +12,7 @@ Eporner Downloader is a browser extension for users who want a cleaner way to sa
 
 ## Links
 
-- :rocket: Get it here: [Eporner Downloader](https://serp.ly/eporner-video-downloader)
+- :rocket: Get it here: [Eporner Downloader](https://serp.ly/eporner-downloader)
 - :new: Latest release: [GitHub Releases](https://github.com/serpapps/eporner-downloader/releases/latest)
 - :question: Help center: [SERP Help](https://help.serp.co/en/)
 - :beetle: Report bugs: [GitHub Issues](https://github.com/serpapps/eporner-downloader/issues)
@@ -123,7 +123,7 @@ The extension only works on media you can already open and play in your active b
 - No credit card required for the trial
 - Unlimited downloads are available with a paid license
 
-Start here: [https://serp.ly/eporner-video-downloader](https://serp.ly/eporner-video-downloader)
+Start here: [https://serp.ly/eporner-downloader](https://serp.ly/eporner-downloader)
 
 ## Installation Instructions
 
