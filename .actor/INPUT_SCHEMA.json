@@ -1,0 +1,15 @@
+{
+  "description": "This actor currently exposes a listing-first surface. Runtime input is not finalized yet, so the public schema documents the current status rather than a finalized run contract.",
+  "properties": {
+    "listingNotice": {
+      "default": "No runtime input is required yet. See the README for the current workflow.",
+      "description": "Informational listing-only field for the current actor surface.",
+      "editor": "textfield",
+      "title": "Listing notice",
+      "type": "string"
+    }
+  },
+  "schemaVersion": 1,
+  "title": "Eporner Video Downloader input",
+  "type": "object"
+}
