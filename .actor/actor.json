@@ -4,7 +4,7 @@
   "description": "Eporner Downloader is a browser extension for users who want a cleaner way to save supported Eporner videos without juggling HLS tools, generic downloader sites, or manual copy and paste workflows. It detects supported video pages in the browser, exposes the available qualities, and exports finishe",
   "input": "./INPUT_SCHEMA.json",
   "name": "eporner-downloader",
-  "readme": "../README.md",
+  "readme": "../ACTOR.md",
   "title": "Eporner Video Downloader",
   "version": "0.0"
 }
