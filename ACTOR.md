@@ -22,6 +22,10 @@ Eporner Downloader is a browser extension for users who want a cleaner way to sa
 
 ![Eporner Downloader workflow preview](assets/workflow-preview.webp)
 
+## Get it Here
+
+Get it here: https://serp.ly/eporner-downloader
+
 ## Table of Contents
 
 - [Why Eporner Downloader](#why-eporner-downloader)
