@@ -5,6 +5,6 @@
   "input": "./INPUT_SCHEMA.json",
   "name": "eporner-downloader",
   "readme": "../ACTOR.md",
-  "title": "Eporner Downloader",
+  "title": "Eporner Video Downloader | How to Download Eporner Videos",
   "version": "0.0"
 }
