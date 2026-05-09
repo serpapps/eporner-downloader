@@ -1,167 +1,86 @@
-# Eporner Downloader (Browser Extension)
+# Eporner Video Downloader
 
-> Download supported Eporner videos as MP4 files from the browser with direct quality selection.
+Want to download and save Eporner videos so you can watch them offline with no ads, no annoying popups, and curate a personal collection of your favorite vids?
 
-Eporner Downloader is a browser extension for users who want a cleaner way to save supported Eporner videos without juggling HLS tools, generic downloader sites, or manual copy-and-paste workflows. It detects supported video pages in the browser, exposes the available qualities, and exports finished downloads as MP4 for easier playback later.
+👉 Get it Here: https://serp.ly/eporner-downloader
 
-- Download supported Eporner videos directly from the page
-- Choose from the quality options exposed by the source
-- Save finished files as standard MP4
-- Use in-page controls, popup controls, or right-click actions
-- Keep downloads organized in a dedicated folder
+## Eporner Video Downloader
 
-## Links
+Eporner Video Downloader is a simple browser-based tool for saving Eporner videos from a URL. It is built for people who want a cleaner, faster way to keep videos available for offline viewing without juggling sketchy popups, unreliable copy/paste tricks, or one-off screen recordings.
 
-- :rocket: Get it here: [Eporner Downloader](https://serp.ly/eporner-downloader)
-- :new: Latest release: [GitHub Releases](https://github.com/serpapps/eporner-downloader/releases/latest)
-- :question: Help center: [SERP Help](https://help.serp.co/en/)
-- :beetle: Report bugs: [GitHub Issues](https://github.com/serpapps/eporner-downloader/issues)
-- :bulb: Request features: [Feature Requests](https://github.com/serpapps/eporner-downloader/issues)
+Use it when you want a focused downloader experience for Eporner: paste a video link, detect the available media, and save the file in a format that works for your device and workflow.
 
-## Preview
+## Why use this downloader?
 
-![Eporner Downloader workflow preview](assets/workflow-preview.webp)
+- Save Eporner videos for offline viewing.
+- Avoid repeat visits, popups, and ad-heavy playback pages.
+- Keep a personal collection of favorite clips.
+- Use a browser-friendly workflow instead of complicated desktop software.
+- Download from URLs without manually hunting through page source.
+- Works well for recurring saves, research, archiving, and personal media organization.
 
-## Table of Contents
+## Key features
 
-- [Why Eporner Downloader](#why-eporner-downloader)
-- [Features](#features)
-- [How It Works](#how-it-works)
-- [Step-by-Step Tutorial: How to Download Videos from Eporner](#step-by-step-tutorial-how-to-download-videos-from-eporner)
-- [Supported Formats](#supported-formats)
-- [Who It's For](#who-its-for)
-- [Common Use Cases](#common-use-cases)
-- [Troubleshooting](#troubleshooting)
-- [Trial & Access](#trial--access)
-- [Installation Instructions](#installation-instructions)
-- [FAQ](#faq)
-- [Notes](#notes)
-- [License](#license)
-- [About Eporner](#about-eporner)
+- Eporner video URL support.
+- Clean download workflow from a normal browser.
+- Helps find downloadable video files from supported pages.
+- Useful for saving videos before they disappear, get moved, or become harder to find.
+- Designed for non-technical users who just want a fast way to save a video.
+- Lightweight alternative to bulky video downloader apps.
+- Works as a practical Eporner video saver for everyday use.
 
-## Why Eporner Downloader
+## How to download Eporner videos
 
-Eporner uses streaming delivery that makes simple right-click saving unreliable, and generic tools often fail to handle the page cleanly. That leaves users with awkward workarounds for a task that should be straightforward.
+1. Copy the Eporner video URL you want to save.
+2. Open the downloader page.
+3. Paste the video URL into the downloader.
+4. Let the tool detect available media options.
+5. Choose the version you want and save it to your device.
 
-Eporner Downloader is designed specifically for supported Eporner pages. Instead of pushing you toward generic HLS tooling, it adds a direct browser-based workflow for detecting the media, choosing a quality, and saving an MP4 copy locally.
+👉 Get it Here: https://serp.ly/eporner-downloader
 
-## Features
+## Best for
 
-- Video downloads from supported Eporner pages
-- Quality selection for available stream variants
-- In-page controls on supported video pages
-- Popup workflow for starting and managing downloads
-- Right-click access for a faster saving flow
-- MP4 output for easier playback and transfer
-- Automatic saving into a dedicated EPORNER folder
-- Cross-browser support for Chrome, Edge, Brave, Opera, Firefox, Whale, and Yandex
+- Offline watching.
+- Personal collections.
+- Saving favorite videos.
+- Archiving videos that may be removed later.
+- Avoiding repeated ad-heavy page loads.
+- Organizing clips by topic, creator, or collection.
+- Downloading from a URL instead of installing random software.
 
-## How It Works
+## Eporner downloader for desktop and mobile workflows
 
-1. Install the extension from the latest release.
-2. Open Eporner and go to the video page you want to save.
-3. Start playback so the extension can detect the media.
-4. Open the popup or use the on-page controls.
-5. Choose the quality option you want.
-6. Start the download and wait for the MP4 export to finish.
-7. Save the final file locally.
+The downloader is designed around a simple URL-based workflow, so it fits naturally into desktop, laptop, and mobile browsing habits. Copy the link from your browser, paste it into the downloader, and save the result when a downloadable format is available.
 
-## Step-by-Step Tutorial: How to Download Videos from Eporner
+## Browser extension alternative
 
-1. Install Eporner Downloader from the latest GitHub release.
-2. Open Eporner and navigate to the video page you want.
-3. Let the player load fully and press play.
-4. Click the extension button or use the on-page download control.
-5. Review the quality options shown by the extension.
-6. Choose the version you want and begin the download.
-7. Wait for the MP4 file to finish exporting.
-8. Open the finished file from your Downloads folder.
-
-## Supported Formats
-
-- Input: Supported Eporner videos
-- Output: MP4
-
-Saved files use MP4 so they are easier to replay on standard media players, move between devices, or archive locally.
-
-## Who It's For
-
-- Eporner users who want offline copies of supported videos
-- Users who want direct browser-based saving instead of external tools
-- People who want quality selection before downloading
-- Anyone organizing personal downloads into a cleaner local library
-
-## Common Use Cases
-
-- Save a supported Eporner video for offline viewing
-- Download the best quality exposed by the page
-- Keep a local copy for later playback
-- Start downloads directly from the player or extension popup
-- Avoid generic downloader sites and manual stream extraction
-
-## Troubleshooting
-
-**The extension is not detecting the video**  
-Press play first and wait a few seconds so the media has time to initialize.
-
-**The page control is missing**  
-Open the extension popup directly. Some supported pages work better through the popup UI.
-
-**Only one quality option is listed**  
-That usually means the page is exposing a single playable stream variant.
-
-**The download failed partway through**  
-Check your connection and refresh the page before starting again.
-
-**The page requires account access**  
-The extension only works on media you can already open and play in your active browser session.
-
-## Trial & Access
-
-- Includes **3 free downloads** so you can test the workflow first
-- Email sign-in uses secure one-time password verification
-- No credit card required for the trial
-- Unlimited downloads are available with a paid license
-
-Start here: [https://serp.ly/eporner-downloader](https://serp.ly/eporner-downloader)
-
-## Installation Instructions
-
-1. Open the latest release page:
-   [https://github.com/serpapps/eporner-downloader/releases/latest](https://github.com/serpapps/eporner-downloader/releases/latest)
-2. Download the extension build for your browser.
-3. Install the extension.
-4. Open Eporner and navigate to a supported video page.
-5. Use the extension controls to start downloading.
+If you prefer a browser-based downloader flow instead of a heavy desktop app, this Eporner downloader gives you a lightweight option for saving videos directly from supported URLs.
 
 ## FAQ
 
-**Can I download Eporner videos directly from the page?**  
-Yes. Supported video pages can be downloaded directly through the extension.
+### Can I download Eporner videos from a URL?
 
-**What file format do downloads use?**  
-Videos are saved as MP4 files.
+Yes. Copy the Eporner video link and use the downloader page to check for downloadable media options.
 
-**Can I choose the quality?**  
-Yes. The extension lists the stream variants exposed by the source page.
+### Is this easier than using a screen recorder?
 
-**Where are videos saved?**  
-They are saved to your default Downloads location, typically inside an EPORNER subfolder.
+Yes. A downloader can save the original media when available, while screen recording is slower, lower quality, and requires you to replay the whole video.
 
-**Do I need extra software?**  
-No. Everything runs through the browser extension.
+### Can I save Eporner videos for offline viewing?
 
-## Notes
+Yes, when the video is publicly accessible and a downloadable media file is available, you can save it for offline viewing.
 
-- Only download content you own or have explicit permission to save
-- An internet connection is required for downloads
-- Source quality depends on the media exposed by Eporner
-- Some pages may require account access or site-specific permissions
+### Does this replace a desktop video downloader app?
 
-## License
+For many users, yes. A URL-based downloader is simpler than installing bulky software, especially for occasional saves and quick personal archiving.
 
-This repository includes an MIT license in [LICENSE.md](LICENSE.md).
+### What if a video does not download?
 
-## About Eporner
+Some videos may be private, removed, geo-restricted, protected, live-only, or served in a way that blocks direct downloads. Try another public video URL or check whether the page is accessible in your browser.
 
-Eporner is a video site where users often want a straightforward offline copy for later viewing, but the playback layer is not designed around simple file saving. Eporner Downloader simplifies that workflow with in-browser detection, quality selection, and MP4 export.
+## Start downloading Eporner videos
+
+Use the Eporner Video Downloader to save videos from supported URLs and build your own offline collection.
+
+👉 Get it Here: https://serp.ly/eporner-downloader
