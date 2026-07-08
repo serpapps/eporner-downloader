@@ -2,7 +2,7 @@
 
 Want to download and save Eporner videos so you can watch them offline with no ads, no annoying popups, and curate a personal collection of your favorite vids?
 
-👉 Get it Here: https://serp.ly/eporner-downloader
+👉 Get it Here: https://serp.ly/eporner-downloader?via=github
 
 ## What this Eporner downloader does
 
@@ -36,7 +36,7 @@ It is best for personal offline viewing, organizing clips, archiving favorite vi
 4. Let the tool check for available media options.
 5. Choose the version you want and save it to your device.
 
-👉 Get it Here: https://serp.ly/eporner-downloader
+👉 Get it Here: https://serp.ly/eporner-downloader?via=github
 
 ## Common use cases
 
@@ -73,4 +73,4 @@ Some videos may be private, removed, geo-restricted, protected, live-only, or se
 
 Use the Eporner Video Downloader to save videos from supported URLs and build your own offline collection.
 
-👉 Get it Here: https://serp.ly/eporner-downloader
+👉 Get it Here: https://serp.ly/eporner-downloader?via=github
